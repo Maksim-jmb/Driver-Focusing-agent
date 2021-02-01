@@ -21,6 +21,10 @@ I have a 3rd key - used to swap layouts, might not be applicable if you aren't u
 *  depending on your relaygroups - i use "party", you might have to change it to get it to work for you
 
 quick thought...if you were just using basic windows layouts - you could modify the 3rd key to match the 2nd and leave in RR disable     
-would allow you to disable RR and return to the main from whoever RR is on
+would allow you to disable RR and return to the main from whoever RR is on     
 
+https://youtu.be/DzUt2XhqKgg     
+first part - just setting main chars with my follow button, also showing you can't over spam it - stop follow and start on a toon already set     
+mid part - in RR mode, just hitting the focus "alt+F1" key from other windows, hitting "F8" key when it exits RR layout     
+last part - if you switch and don't set a char what happens - focuses the small window of the char that is set in RR
 
