@@ -19,6 +19,6 @@ I have a 3rd key - used to swap layouts, might not be applicable if you aren't u
 *  depending on your relaygroups - i use "party", you might have to change it to get it to work for you
 
 quick thought...if you were just using basic windows layouts - you could modify the 3rd key to match the 2nd and leave in RR disable     
-would allow you to disable RR and return to the main from wherever your RR is on
+would allow you to disable RR and return to the main from whoever RR is on
 
 
