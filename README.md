@@ -1,4 +1,4 @@
-# Focusing-Main-Char-agent
+# Focusing-Main-agent
 
 kind of a generic agent - kept it seperate, but i do use it with Teams agent     
 
