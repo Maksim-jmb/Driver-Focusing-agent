@@ -1,6 +1,6 @@
 # Focusing-Main-agent
 
-kind of a generic agent - kept it seperate, but i do use it with Teams agent     
+kind of a generic agent small agent - so i kept it seperate, but i do use it with Teams agent     
 
 allows for switching main/driver and swapping back to them without using hotkeys for whoever the main is     
 replaced some other means i was using to get back to the main in other agents
