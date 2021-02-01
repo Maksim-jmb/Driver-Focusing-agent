@@ -1,7 +1,6 @@
 
 objectdef ftlSettings
 {
-    variable uint FtlSlot
 
     method Initialize()
     {
