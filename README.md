@@ -1,7 +1,7 @@
 # Driver Focusing-agent
 
 kind of a generic small agent - so i kept it seperate, but i do use it with Teams agent     
-might work with basic agents, not sure yet, have to check some of basics refernce names if mine match
+might work with basic agents, not sure yet, have to check some of basics reference names if mine match in relays
 
 allows for switching main/driver and swapping back to them without using hotkeys for whoever the main is     
 replaced some other means i was using to get back to the main in other agents (shift hotkeys, and couple other methods)
