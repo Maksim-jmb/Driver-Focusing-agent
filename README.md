@@ -2,7 +2,8 @@
 
 kind of a generic agent - kept it seperate, but i do use it with Teams agent     
 
-allows for switching main/driver and swapping back to them without using hotkeys for whatever the main is
+allows for switching main/driver and swapping back to them without using hotkeys for whoever the main is     
+replaced some other means i was using to get back to the main in other agents
 
 trying to get something to act like FTL - so i could switch mains/character without having to use/remember/setup 5 sets of keys for a 5 man group     
 wanted the ability to main anyone in the group with minimal keys: 1 key to set main, 1 key to swap to main     
