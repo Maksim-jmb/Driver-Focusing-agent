@@ -16,7 +16,7 @@ wanted the ability to main anyone in the group with minimal keys: 1 key to set m
 2nd key: "Alt+F1" could be anything, easy acces key if you need to get back to the main while in RR for movement, etc...     
 *  stays in RR mode
 
-I have a 3rd key - used to swap layouts, might not be applicable if you aren't using an agent with dxNothing in it - and some other things
+I have a 3rd key - used to swap layouts, might not be applicable if you aren't using an agent with dxNothing in it - and some other things in Teams agent
 *  but if you do, it will kick you out of RR layout back to Vfx layout, disable RR, and focus whoever the main is
 *  depending on your relaygroups - i use "party", you might have to change it to get it to work for you
 
