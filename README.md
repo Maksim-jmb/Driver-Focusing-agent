@@ -28,3 +28,5 @@ first part - just setting main chars with my follow button, also showing you can
 mid part - in RR mode, just hitting the focus "alt+F1" key from other windows, hitting "F8" key when it exits RR layout     
 last part - if you switch and don't set a char what happens - focuses the small window of the char that is set in RR
 
+gameplay https://youtu.be/EUK8_EBAwOE
+
