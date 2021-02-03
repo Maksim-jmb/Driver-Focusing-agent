@@ -29,7 +29,7 @@
                 },
                 "hook2":{
                     "control":{
-                        "controlName": "F1",
+                        "controlName": "F7",
                         "minValue": 1,
                         "maxValue": 1
                     },
@@ -39,9 +39,6 @@
                             "relay ${Session} FTLSettings:FTLfocus[${JMB.MouseOverSlot}]"
                         ]
                     },
-                    "modifiers":[
-                        "alt"
-                    ],
                     "keyboardFocus": false,
                     "mouseFocus": false
                 },

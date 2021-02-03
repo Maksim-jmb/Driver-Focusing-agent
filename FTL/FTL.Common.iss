@@ -1,7 +1,5 @@
-
 objectdef ftlSettings
 {
-
     method Initialize()
     {
     }
@@ -48,6 +46,8 @@ objectdef ftlSettings
     {
         if ${mslot.Equal[${FtlSlot}]}
         {
+            relay jmb${JMB.MouseOverSlot} BWLSession:ApplyWindowLayout
+            relay party BRRSession:Disable
             ; echo "FTLswaplayout return toSlot ${toSlot} ${FtlSlot}"
             return
         }
@@ -62,4 +62,5 @@ objectdef ftlSettings
 
 variable(global) ftlSettings FTLSettings
 variable(globalkeep) uint FtlSlot
+
 
