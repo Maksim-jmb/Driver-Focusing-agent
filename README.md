@@ -13,7 +13,7 @@ wanted the ability to main anyone in the group with minimal keys: 1 key to set m
 *  "Num 0" in my case is also tied to /ema-team iammaster all, /ema-follow me all, /console autointeract 0
 *  I hit "Num 0" whenever i switch characters - so setting is pretty automatic without thinking about it
 
-2nd key: "Alt+F1" could be anything, easy acces key if you need to get back to the main while in RR for movement, etc...     
+2nd key: "F7" could be anything, easy acces key if you need to get back to the main while in RR for movement, etc...     
 *  stays in RR mode
 
 I have a 3rd key - used to swap layouts, might not be applicable if you aren't using an agent with dxNothing in it - and some other things in Teams agent
@@ -25,7 +25,7 @@ would allow you to disable RR and return to the main from whoever RR is on
 
 https://youtu.be/DzUt2XhqKgg     
 first part - just setting main chars with my follow button, also showing you can't over spam it - stop follow and start on a toon already set     
-mid part - in RR mode, just hitting the focus "alt+F1" key from other windows, hitting "F8" key when it exits RR layout     
+mid part - in RR mode, just hitting the focus "F7" key from other windows, hitting "F8" key when it exits RR layout     
 last part - if you switch and don't set a char what happens - focuses the small window of the char that is set in RR
 
 gameplay https://youtu.be/EUK8_EBAwOE
